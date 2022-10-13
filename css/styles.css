@@ -74,7 +74,6 @@ p {
   margin: -1px;
 }
 .header {
-  /* min-height: 80px; */
   border-bottom: #eeeeee 1px solid;
   display: flex;
 }
@@ -166,10 +165,10 @@ p {
   display: flex;
   align-items: center;
 }
-.banner__cont {
-  width: 700px;
-}
+
 .banner__title {
+  width: 696px;
+  margin: 0 auto;
   font-weight: 900;
   font-size: 44px;
   line-height: calc(60 / 44);
@@ -417,6 +416,7 @@ p {
   font-size: 18px;
   line-height: calc(36 / 18);
   letter-spacing: 0.06em;
+  margin-bottom: 4px;
 }
 .portfolio__subtitle {
   font-size: 16px;
