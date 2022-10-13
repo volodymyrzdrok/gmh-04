@@ -359,9 +359,6 @@ p {
 .clients__link:hover .client__icon {
   fill: var(--focus-color);
 }
-svg {
-  fill: black;
-}
 
 /*     portfolio.html   */
 .portfolio {
